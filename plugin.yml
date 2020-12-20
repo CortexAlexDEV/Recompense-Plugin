@@ -1,0 +1,11 @@
+name: Recompence_By_Cortex
+main: CortexAlex\Main
+version: 0.0.1
+api: 3.0.0
+author: CortexAlex
+
+commands:
+  recompence:
+    description: "§e[§5Cortex§e] §aPour récupéré ta récompence"
+    usage: /récompence
+    aliases: ['récom']
